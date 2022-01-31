@@ -13,8 +13,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
   - [Additional Questions](#additional-questions)
 
   ## Installation:
